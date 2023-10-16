@@ -15,5 +15,11 @@
         </div>
         <div class="z-1 absolute w-full h-full bg-black opacity-50"></div>
     </div>
+    <div class="bg-neutral-200 p-6 text-center white:bg-neutral-5300">
+      <span>© 2023 Copyright:</span>
+      <a
+        class="font-semibold text-neutral-600 dark:text-neutral-400">HieuLM13</a
+      >
+  </div>
   </div>
 </template>
